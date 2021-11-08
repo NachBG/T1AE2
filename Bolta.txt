@@ -1,2 +1,6 @@
 Bolta Gimenez
+<<<<<<< HEAD
 User1
+=======
+User2
+>>>>>>> a2267757cee59138ad8a5d7eaa4f6f3d110b6fcc
